@@ -134,4 +134,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Kangaroo®** for their collaboration in developing this dashboard.
 - **IIT Ropar** for providing an enriching environment for project development.
 - Special thanks to the open-source community for the various libraries and tools utilized in this project.
-- Special thanks to Ankit, Priyanka, and Avik for their unwavering support throughout this project!
+- Special thanks to **Ankit**, **Priyanka**, and **Avik** for their unwavering support throughout this project!
