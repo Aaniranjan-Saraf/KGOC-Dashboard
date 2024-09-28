@@ -3,6 +3,8 @@
 
 The KGOC Admin Dashboard is a comprehensive web application designed to manage financial insights efficiently. Utilizing modern web technologies and frameworks, it provides a robust solution for revenue and expense management.
 
+![image](https://github.com/user-attachments/assets/6f4eec15-ead8-4690-ac5f-75bdb2e1dbe4)
+
 ## Table of Contents
 
 - [Features](#features)
